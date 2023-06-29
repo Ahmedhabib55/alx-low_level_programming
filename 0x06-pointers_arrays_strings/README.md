@@ -1,0 +1,1 @@
+task_of_pointers_arrays_strings
