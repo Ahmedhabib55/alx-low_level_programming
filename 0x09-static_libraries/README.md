@@ -1,0 +1,1 @@
+task static_libraries
